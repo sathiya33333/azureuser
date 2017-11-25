@@ -1,0 +1,2 @@
+# azureuser
+azuregoadmin access
